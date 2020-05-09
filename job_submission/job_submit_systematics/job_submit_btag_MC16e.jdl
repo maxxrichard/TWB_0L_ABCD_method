@@ -1,0 +1,34 @@
+Executable = /gpfs/share/home/s6marahm/job_steer_bkg_MC16e.sh 
+#Job Steering file
+Universe = vanilla
+
+#Make sure the directory log is created
+Error 			= ../log/log_btag/err.$(ClusterId).$(Process).$(DSID).$(LABEL).$(OUTPUT_FOLDER).$(SIGNAL_ELEMENT)
+Output 			= ../log/log_btag/out.$(ClusterId).$(Process).$(DSID).$(LABEL).$(OUTPUT_FOLDER).$(SIGNAL_ELEMENT)
+Log 			= ../log/log_btag/log.$(ClusterId).$(Process).$(DSID).$(LABEL).$(OUTPUT_FOLDER).$(SIGNAL_ELEMENT)
+
+
+# Specify files to be transferred (please note that files on CephFS should _NOT_ be transferred!!!)
+# Should executable be transferred from the submit node to the job working directory on the worker node?
+Transfer_executable     = True
+# List of input files to be transferred from the submit node to the job working directory on the worker node
+Transfer_input_files    = 
+# List of output files to be transferred from the job working directory on the worker node to the submit node
+
+
+#Check resources needed with commands like top or ps -T by launching test jobs in interactive session.
+Request_memory = 4 GB
+Request_cpus = 1
+Request_disk = 2 GB
+
+#Arguments for your job (These are for my analysis)
+Arguments  = $(Process) $(INPUT_FOLDER) $(DSID) $(TREE_NAME) $(XS)  $(LABEL) $(OUTPUT_FOLDER) $(SIGNAL_ELEMENT)
+
+#Move to Centos7
++ContainerOS = "CentOS7"
+
+#You can see this when you use condor_q. Use condor_q -global if you have submitted jobs from another machine
+JobBatchName = Searching_for_VLQs_background_MC16e_PFlow_btagging_systematics
+
+#Queue multiple jobs with different arguments
+Queue INPUT_FOLDER DSID TREE_NAME XS LABEL OUTPUT_FOLDER SIGNAL_ELEMENT from $(slice) list_of_tasks_btag_MC16e_PFlow.txt

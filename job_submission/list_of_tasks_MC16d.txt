@@ -1,0 +1,81 @@
+user.abandyop.364703.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                  364703 nominal 3.0849e+05       MC16d outputPF
+user.abandyop.364704.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                  364704 nominal 3.4039e+03       MC16d outputPF
+user.abandyop.364705.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                  364705 nominal 6.6149e+01       MC16d outputPF
+user.abandyop.364706.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                  364706 nominal 2.4399           MC16d outputPF
+user.abandyop.364707.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                  364707 nominal 1.7997e-01       MC16d outputPF
+user.abandyop.364708.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                  364708 nominal 6.3481e-03       MC16d outputPF
+user.abandyop.364709.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                  364709 nominal 2.3679e-04       MC16d outputPF
+user.abandyop.364710.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                  364710 nominal 7.0504e-06       MC16d outputPF
+user.abandyop.364711.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                  364711 nominal 1.1299e-07       MC16d outputPF
+user.abandyop.364712.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                  364712 nominal 4.4472e-10       MC16d outputPF
+user.abandyop.364375.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364375 nominal 14.445           MC16d outputPF
+user.abandyop.364376.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364376 nominal 1.1536           MC16d outputPF
+user.abandyop.364377.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364377 nominal 0.024211         MC16d outputPF
+user.abandyop.364378.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364378 nominal 32.922           MC16d outputPF
+user.abandyop.364379.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364379 nominal 2.6058           MC16d outputPF
+user.abandyop.364380.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364380 nominal 0.054038         MC16d outputPF
+user.abandyop.410471.PhPy8EG.DAOD_EXOT7.e6337_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                        410471 nominal 379.485909       MC16d outputPF
+user.abandyop.410646.PowhegPythia8EvtGen.DAOD_EXOT7.e6552_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root            410646 nominal 35.84952         MC16d outputPF
+user.abandyop.410647.PowhegPythia8EvtGen.DAOD_EXOT7.e6552_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root            410647 nominal 35.859076        MC16d outputPF
+user.abandyop.312335.MGPy8EG.DAOD_EXOT7.e7642_s3126_r10201_p3842.14th-Oct_21.2.92_v1_output_root                        312335 nominal 2.7              MC16d outputPF
+user.abandyop.312336.MGPy8EG.DAOD_EXOT7.e7642_s3126_r10201_p3842.14th-Oct_21.2.92_v1_output_root                        312336 nominal 1.432            MC16d outputPF
+user.abandyop.312337.MGPy8EG.DAOD_EXOT7.e7642_s3126_r10201_p3842.14th-Oct_21.2.92_v1_output_root                        312337 nominal 0.816            MC16d outputPF
+user.abandyop.312338.MGPy8EG.DAOD_EXOT7.e7642_s3126_r10201_p3842.14th-Oct_21.2.92_v1_output_root                        312338 nominal 0.46             MC16d outputPF
+user.abandyop.312339.MGPy8EG.DAOD_EXOT7.e7642_s3126_r10201_p3842.14th-Oct_21.2.92_v1_output_root                        312339 nominal 0.272            MC16d outputPF
+user.abandyop.312340.MGPy8EG.DAOD_EXOT7.e7642_s3126_r10201_p3842.14th-Oct_21.2.92_v1_output_root                        312340 nominal 0.01561          MC16d outputPF
+user.abandyop.312341.MGPy8EG.DAOD_EXOT7.e7642_s3126_r10201_p3842.14th-Oct_21.2.92_v1_output_root                        312341 nominal 0.008357         MC16d outputPF
+
+
+CROSSECTION UP
+
+user.abandyop.364375.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364375 nominal 15.3117           MC16d outputPF
+user.abandyop.364376.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364376 nominal 1.222816          MC16d outputPF
+user.abandyop.364377.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364377 nominal 0.02566366        MC16d outputPF
+user.abandyop.364378.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364378 nominal 34.89732          MC16d outputPF
+user.abandyop.364379.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364379 nominal 2.762148          MC16d outputPF
+user.abandyop.364380.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364380 nominal 0.05728028        MC16d outputPF
+user.abandyop.410471.PhPy8EG.DAOD_EXOT7.e6337_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                        410471 nominal 388.593571        MC16d outputPF
+user.abandyop.410646.PowhegPythia8EvtGen.DAOD_EXOT7.e6552_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root            410646 nominal 36.745758         MC16d outputPF
+user.abandyop.410647.PowhegPythia8EvtGen.DAOD_EXOT7.e6552_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root            410647 nominal 36.7555529        MC16d outputPF
+
+
+CROSSECTION DOWN
+
+
+user.abandyop.364375.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364375 nominal 13.5783           MC16d outputPF
+user.abandyop.364376.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364376 nominal 1.084384          MC16d outputPF
+user.abandyop.364377.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364377 nominal 0.02275834        MC16d outputPF
+user.abandyop.364378.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364378 nominal 30.94668          MC16d outputPF
+user.abandyop.364379.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364379 nominal 2.449452          MC16d outputPF
+user.abandyop.364380.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                         364380 nominal 0.05079572        MC16d outputPF
+user.abandyop.410471.PhPy8EG.DAOD_EXOT7.e6337_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root                        410471 nominal 366.203902        MC16d outputPF
+user.abandyop.410646.PowhegPythia8EvtGen.DAOD_EXOT7.e6552_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root            410646 nominal 34.953282         MC16d outputPF
+user.abandyop.410647.PowhegPythia8EvtGen.DAOD_EXOT7.e6552_s3126_r10201_p3840.14th-Oct_21.2.92_v1_output_root            410647 nominal 34.9625991        MC16d outputPF
+
+
+
+
+
+NEW
+
+
+
+user.abandyop.364375.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3973.26th-Mar_21.2.113_v1sys_output_root                 364375  nominal   14.445      MC16d   output    0
+user.abandyop.364376.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3973.26th-Mar_21.2.113_v1sys_output_root                 364376  nominal   1.1536      MC16d   output    0
+user.abandyop.364377.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3973.26th-Mar_21.2.113_v1sys_output_root                 364377  nominal   0.024211    MC16d   output    0
+user.abandyop.364378.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3973.26th-Mar_21.2.113_v1sys_output_root                 364378  nominal   32.922      MC16d   output    0
+user.abandyop.364379.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3973.26th-Mar_21.2.113_v1sys_output_root                 364379  nominal   2.6058      MC16d   output    0
+user.abandyop.364380.Sherpa.DAOD_EXOT7.e7048_s3126_r10201_p3973.26th-Mar_21.2.113_v1sys_output_root                 364380  nominal   0.054038    MC16d   output    0
+user.abandyop.410471.PhPy8EG.DAOD_EXOT7.e6337_s3126_r10201_p3973.26th-Mar_21.2.113_v1sys_output_root                410471  nominal   379.485909  MC16d   output    0
+user.abandyop.410646.PowhegPythia8EvtGen.DAOD_EXOT7.e6552_s3126_r10201_p3973.26th-Mar_21.2.113_v1sys_output_root    410646  nominal   35.84952    MC16d   output    0
+user.abandyop.410647.PowhegPythia8EvtGen.DAOD_EXOT7.e6552_s3126_r10201_p3973.26th-Mar_21.2.113_v1sys_output_root    410647  nominal   35.859076   MC16d   output    0
+user.abandyop.364703.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3973.26th-Mar_21.2.113_v2nosys_output_root        364703  nominal   3.0849e+05  MC16d   output    0
+user.abandyop.364704.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3973.26th-Mar_21.2.113_v2nosys_output_root        364704  nominal   3.4039e+03  MC16d   output    0
+user.abandyop.364705.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3973.26th-Mar_21.2.113_v3nosys_output_root        364705  nominal   6.6149e+01  MC16d   output    0
+user.abandyop.364706.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3973.26th-Mar_21.2.113_v1nosys_output_root        364706  nominal   2.4399      MC16d   output    0
+user.abandyop.364707.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3973.26th-Mar_21.2.113_v1nosys_output_root        364707  nominal   1.7997e-01  MC16d   output    0
+user.abandyop.364708.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3973.26th-Mar_21.2.113_v1nosys_output_root        364708  nominal   6.3481e-03  MC16d   output    0
+user.abandyop.364709.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3973.26th-Mar_21.2.113_v1nosys_output_root        364709  nominal   2.3679e-04  MC16d   output    0
+user.abandyop.364710.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3973.26th-Mar_21.2.113_v1nosys_output_root        364710  nominal   7.0504e-06  MC16d   output    0
+user.abandyop.364711.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3973.26th-Mar_21.2.113_v1nosys_output_root        364711  nominal   1.1299e-07  MC16d   output    0
+user.abandyop.364712.Pythia8EvtGen.DAOD_EXOT7.e7142_s3126_r10201_p3973.26th-Mar_21.2.113_v1nosys_output_root        364712  nominal   4.4472e-10  MC16d   output    0

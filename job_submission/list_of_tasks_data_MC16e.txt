@@ -1,0 +1,16 @@
+user.abandyop.periodB.physics_Main.DAOD_EXOT7.grp18_v01_p3841.3rd-Oct_21.2.92_v2_output_root	periodB.grp18	MC16e  output   
+user.abandyop.periodC.physics_Main.DAOD_EXOT7.grp18_v01_p3841.3rd-Oct_21.2.92_v2_output_root	periodC.grp18	MC16e  output
+user.abandyop.periodD.physics_Main.DAOD_EXOT7.grp18_v01_p3841.3rd-Oct_21.2.92_v2_output_root	periodD.grp18	MC16e  output
+user.abandyop.periodF.physics_Main.DAOD_EXOT7.grp18_v01_p3841.3rd-Oct_21.2.92_v2_output_root	periodF.grp18	MC16e  output
+user.abandyop.periodI.physics_Main.DAOD_EXOT7.grp18_v01_p3841.3rd-Oct_21.2.92_v2_output_root	periodI.grp18	MC16e  output
+user.abandyop.periodK.physics_Main.DAOD_EXOT7.grp18_v01_p3841.3rd-Oct_21.2.92_v2_output_root	periodK.grp18	MC16e  output
+user.abandyop.periodL.physics_Main.DAOD_EXOT7.grp18_v01_p3841.3rd-Oct_21.2.92_v2_output_root	periodL.grp18	MC16e  output
+user.abandyop.periodM.physics_Main.DAOD_EXOT7.grp18_v01_p3841.3rd-Oct_21.2.92_v2_output_root	periodM.grp18	MC16e  output
+user.abandyop.periodO.physics_Main.DAOD_EXOT7.grp18_v01_p3841.3rd-Oct_21.2.92_v2_output_root	periodO.grp18	MC16e  output
+user.abandyop.periodQ.physics_Main.DAOD_EXOT7.grp18_v01_p3841.3rd-Oct_21.2.92_v2_output_root	periodQ.grp18	MC16e  output
+
+
+
+user.abandyop.periodB.physics_Main.DAOD_EXOT7.grp18_v01_p3841.14yh-Oct_21.2.92_v1_output_root   periodB.grp18   MC16e  output
+user.abandyop.periodC.physics_Main.DAOD_EXOT7.grp18_v01_p3841.14yh-Oct_21.2.92_v1_output_root   periodC.grp18   MC16e  weight_bTagSF_DL1r_70_eigenvars_B_down
+user.abandyop.periodD.physics_Main.DAOD_EXOT7.grp18_v01_p3841.14yh-Oct_21.2.92_v1_output_root   periodD.grp18   MC16e  crossection_up

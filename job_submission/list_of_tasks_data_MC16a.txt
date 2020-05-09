@@ -1,0 +1,22 @@
+user.abandyop.periodA.physics_Main.DAOD_EXOT7.grp16_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodA.grp16 MC16a output  
+user.abandyop.periodB.physics_Main.DAOD_EXOT7.grp16_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodB.grp16 MC16a output
+user.abandyop.periodC.physics_Main.DAOD_EXOT7.grp16_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodC.grp16 MC16a output
+user.abandyop.periodD.physics_Main.DAOD_EXOT7.grp16_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodD.grp16 MC16a output
+user.abandyop.periodE.physics_Main.DAOD_EXOT7.grp16_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodE.grp16 MC16a output
+user.abandyop.periodF.physics_Main.DAOD_EXOT7.grp16_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodF.grp16 MC16a output
+user.abandyop.periodG.physics_Main.DAOD_EXOT7.grp16_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodG.grp16 MC16a output
+user.abandyop.periodI.physics_Main.DAOD_EXOT7.grp16_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodI.grp16 MC16a output
+user.abandyop.periodK.physics_Main.DAOD_EXOT7.grp16_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodK.grp16 MC16a output
+user.abandyop.periodL.physics_Main.DAOD_EXOT7.grp16_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodL.grp16 MC16a output
+user.abandyop.periodD.physics_Main.DAOD_EXOT7.grp15_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodD.grp15 MC16a output
+user.abandyop.periodE.physics_Main.DAOD_EXOT7.grp15_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodE.grp15 MC16a output
+user.abandyop.periodF.physics_Main.DAOD_EXOT7.grp15_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodF.grp15 MC16a output
+user.abandyop.periodG.physics_Main.DAOD_EXOT7.grp15_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodG.grp15 MC16a output
+user.abandyop.periodH.physics_Main.DAOD_EXOT7.grp15_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodH.grp15 MC16a output
+user.abandyop.periodJ.physics_Main.DAOD_EXOT7.grp15_v01_p3841.3rd-Oct_21.2.92_v1_output_root periodJ.grp15 MC16a output
+
+
+
+user.abandyop.periodA.physics_Main.DAOD_EXOT7.grp16_v01_p3841.14th-Oct_21.2.92_v1_output_root periodA.grp16 MC16a output
+user.abandyop.periodB.physics_Main.DAOD_EXOT7.grp16_v01_p3841.14th-Oct_21.2.92_v1_output_root periodB.grp16 MC16a weight_bTagSF_DL1r_70_eigenvars_B_down
+user.abandyop.periodC.physics_Main.DAOD_EXOT7.grp16_v01_p3841.14th-Oct_21.2.92_v1_output_root periodC.grp16 MC16a crossection_up

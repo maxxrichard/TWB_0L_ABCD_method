@@ -1,0 +1,4 @@
+JOB MC16d job_submit_sig_MC16d.jdl
+JOB MC16e job_submit_sig_MC16e.jdl
+
+PARENT MC16d CHILD MC16e

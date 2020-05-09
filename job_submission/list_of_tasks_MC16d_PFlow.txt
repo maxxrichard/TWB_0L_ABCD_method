@@ -1,0 +1,15 @@
+user.abandyop.364922.H7EG.DAOD_EXOT7.e7482_s3126_r10201_p3973.26th-Mar_21.2.115_v2nosys_output_root                  364922  nominal   18616233.48         MC16d   output    Herwig
+user.abandyop.364923.H7EG.DAOD_EXOT7.e7482_s3126_r10201_p3973.26th-Mar_21.2.115_v2nosys_output_root                  364923  nominal   224646.5424         MC16d   output    Herwig
+user.abandyop.364924.H7EG.DAOD_EXOT7.e7482_s3126_r10201_p3973.26th-Mar_21.2.115_v2nosys_output_root                  364924  nominal   2624.306118         MC16d   output    Herwig
+user.abandyop.364925.H7EG.DAOD_EXOT7.e7482_s3126_r10201_p3973.26th-Mar_21.2.115_v2nosys_output_root                  364925  nominal   50.88089919         MC16d   output    Herwig
+user.abandyop.364926.H7EG.DAOD_EXOT7.e7482_s3126_r10201_p3973.26th-Mar_21.2.115_v2nosys_output_root                  364926  nominal   1.841564351         MC16d   output    Herwig
+user.abandyop.364927.H7EG.DAOD_EXOT7.e7482_s3126_r10201_p3973.26th-Mar_21.2.115_v2nosys_output_root                  364927  nominal   0.1350833956        MC16d   output    Herwig
+user.abandyop.364928.H7EG.DAOD_EXOT7.e7482_s3126_r10201_p3973.26th-Mar_21.2.115_v2nosys_output_root                  364928  nominal   0.00471952708       MC16d   output    Herwig
+user.abandyop.364929.H7EG.DAOD_EXOT7.e7482_s3126_r10201_p3973.26th-Mar_21.2.115_v2nosys_output_root                  364929  nominal   0.00017362051       MC16d   output    Herwig
+user.abandyop.364679.Sherpa.DAOD_EXOT7.e6929_s3126_r10201_p3973.26th-Mar_21.2.113_v2nosys_output_root                364679  nominal   5244.234291         MC16d   output    Sherpa
+user.abandyop.364680.Sherpa.DAOD_EXOT7.e6929_s3126_r10201_p3973.26th-Mar_21.2.113_v2nosys_output_root                364680  nominal   82.5082374          MC16d   output    Sherpa
+user.abandyop.364681.Sherpa.DAOD_EXOT7.e6929_s3126_r10201_p3973.26th-Mar_21.2.113_v2nosys_output_root                364681  nominal   39.5002465          MC16d   output    Sherpa
+user.abandyop.364682.Sherpa.DAOD_EXOT7.e6929_s3126_r10201_p3973.26th-Mar_21.2.113_v2nosys_output_root                364682  nominal   1.38988966          MC16d   output    Sherpa
+user.abandyop.364683.Sherpa.DAOD_EXOT7.e6929_s3126_r10201_p3973.26th-Mar_21.2.113_v2nosys_output_root                364683  nominal   0.0984693432        MC16d   output    Sherpa
+user.abandyop.364684.Sherpa.DAOD_EXOT7.e6929_s3126_r10201_p3973.26th-Mar_21.2.113_v2nosys_output_root                364684  nominal   0.00328550466       MC16d   output    Sherpa
+user.abandyop.364685.Sherpa.DAOD_EXOT7.e6929_s3126_r10201_p3973.26th-Mar_21.2.113_v2nosys_output_root                364685  nominal   0.00011788566       MC16d   output    Sherpa
